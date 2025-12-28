@@ -12,8 +12,10 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 # Yaha channel IDs daalna (bot admin hona chahiye)
 CHANNEL_IDS = [
-    -1001234567890,
-    -1009876543210
+    -1002953344164,
+    -1003668350192,
+    -1003589130945,
+    -1003531245130
 ]
 
 async def handle_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
